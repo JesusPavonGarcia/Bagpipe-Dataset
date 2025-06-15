@@ -1,0 +1,12 @@
+{
+    "filename": "sample_bt_20.wav",
+    "duration_sec": 10.0,
+    "sample_rate": 44100,
+    "key": {
+        "key": "Bb",
+        "scale": "major",
+        "strength": 0.86
+    },
+    "drone note aprox": "F3",
+    "origen": "Youtube"
+}

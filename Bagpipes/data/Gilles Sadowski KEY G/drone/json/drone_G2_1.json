@@ -1,0 +1,12 @@
+{
+    "filename": "drone_G2_1.wav",
+    "duration_sec": 2.42,
+    "sample_rate": 44100,
+    "key": {
+        "key": "G",
+        "scale": "major",
+        "strength": 0.87
+    },
+    "drone note aprox": "None",
+    "origen": "Gilles Sadowski"
+}

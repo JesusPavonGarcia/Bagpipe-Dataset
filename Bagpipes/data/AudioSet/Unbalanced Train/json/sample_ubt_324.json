@@ -1,0 +1,12 @@
+{
+    "filename": "sample_ubt_324.wav",
+    "duration_sec": 10.0,
+    "sample_rate": 44100,
+    "key": {
+        "key": "Bb",
+        "scale": "major",
+        "strength": 0.68
+    },
+    "drone note aprox": "A\u266f3",
+    "origen": "Youtube"
+}
