@@ -16,4 +16,6 @@ Els audios test són accesibles a DDSP\Codi\Resintesi on es poden trobar els aud
     - original - DDSP\Codi\Resintesi
     - coparar dades - DDSP\Codi\Comparatives_audio
 
-Si es desitja fer un experiment directament amb DDSP es possible via la carpeta DDSP\Codi\test on es troben els audios test en TFRECORD i el script per executar
+Si es desitja fer un experiment directament amb DDSP es possible via
+     - DDSP\Codi\test on es troben els audios test en TFRECORD i
+     -DDSP\Codi\
