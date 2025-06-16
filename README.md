@@ -5,8 +5,11 @@ Permet extraure caracteristiques i obtenir mètriques per entrenar un model DDSP
 El repositori segueix la següent estructura
 
 ![Diagrama sin título drawio (2)](https://github.com/user-attachments/assets/ead7fad5-427b-48eb-937d-2681e8ccd597)
-![Diagrama sin título drawio (2)](https://github.com/user-attachments/assets/ead7fad5-427b-48eb-937d-2681e8ccd597)
 
-Accés al script per a:
+Els scripts són accesibles per a:
     - extreure dades - DDSP\Codi\Extract_features
+    - coparar dades - DDSP\Codi\Comparatives_audio
+
+Els audios test són accesibles a DDSP\Codi\Resintesi on es poden trobar els audios originals i resintetizats
+    - original - DDSP\Codi\Resintesi
     - coparar dades - DDSP\Codi\Comparatives_audio
