@@ -13,3 +13,5 @@ Els scripts són accesibles per a:
 Els audios test són accesibles a DDSP\Codi\Resintesi on es poden trobar els audios originals i resintetizats
     - original - DDSP\Codi\Resintesi
     - coparar dades - DDSP\Codi\Comparatives_audio
+
+Si es desitja fer un experiment directament amb DDSP es possible via la carpeta DDSP\Codi\test on es troben els audios test en TFRECORD i el script per executar
