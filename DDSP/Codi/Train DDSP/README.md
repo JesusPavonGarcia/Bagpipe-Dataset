@@ -2,7 +2,7 @@ ARXIUS PER ENTRENAR LOCALMENT MODEL DDSP <br>
 Via generate_model_ddsp.ipynb <br>
 
    -NECESSARI: Instal.lar DDSP <br>
-   -COPIAR colab_utils_perso.py en la carpeta ddsp/colab/ <br>
+   -COPIAR colab_utils_perso.py en la carpeta d'instal.lació .../ddsp/colab/ <br>
    -VARIAR ELS PATH DE EXEMPLE <br>
 
 Basat en: <br>
